@@ -1,5 +1,6 @@
 import './toogle-mode.js' 
 import * as FocusTimer from './FocusTimer/index.js'
 
-FocusTimer.start(10,80)
+FocusTimer.start(0, 6)
+
 
